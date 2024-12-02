@@ -442,9 +442,10 @@ footer {
   right: 0; /* Footer wird am rechten Rand fixiert */
   width: auto; /* Breite passt sich dem Inhalt an */
   text-align: right; /* Text im Footer wird rechtsbündig */
-  padding: 10px;
-  color: white; /* Textfarbe */
-  border-radius: 5px 0 0 5px; /* Optional: Runde linke Ecken */
+  padding: 5px 10px; /* Kleinere Innenabstände */
+  font-size: 12px; /* Kleinere Schriftgröße */
+  color: rgb(255, 255, 255); /* Textfarbe */
+  border-radius: 5px 0 0 5px; /* Runde linke Ecken */
 }
 
 .text-mit-bild {
